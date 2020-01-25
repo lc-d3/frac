@@ -1,11 +1,11 @@
-# Dependencies
+## Dependencies
 python3, pygame
 
-# How it works
+## How it works
 There are three (by default) fixed red points set up as a triangle, as well as a 1px wide black point in the middle of the screen. 
 At each iteration, a random red point is selected and a new black point is created halfway between the red point and the black point of the previous iteration. This creates a Sierpinski triangle.
 
-# Controls
+## Controls
 
 * Space: start/stop
 * R: reset
